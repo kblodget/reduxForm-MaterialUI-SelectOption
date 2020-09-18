@@ -22,17 +22,9 @@ const chapterFormValues = [
   },
   {
     key: "international-4",
-    caption: "France"
-  },
-  {
-    key: "international-5",
     caption: "Africa"
   },
-  {
-    key: "international-6",
-    caption: "United Kingdom"
-  },
-  {
+    {
     key: "usa-key",
     caption: "North America",
     subMenuItems: [
@@ -45,6 +37,14 @@ const chapterFormValues = [
         caption: "East"
       }
     ]
+  },
+  {
+    key: "international-5",
+    caption: "France"
+  },
+  {
+    key: "international-6",
+    caption: "United Kingdom"
   }
 ];
 
