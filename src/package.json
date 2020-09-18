@@ -1,0 +1,16 @@
+{
+  "name": "redux-form-material-ui-example",
+  "version": "1.0.0",
+  "description": "How to use Material UI components with Redux Form",
+  "keywords": [],
+  "main": "index.js",
+  "dependencies": {
+    "@material-ui/core": "4.9.11",
+    "material-ui": "0.20.2",
+    "react": "16.11.0",
+    "react-dom": "16.11.0",
+    "react-redux": "7.1.1",
+    "redux": "4.0.5",
+    "redux-form": "8.3.1"
+  }
+}
